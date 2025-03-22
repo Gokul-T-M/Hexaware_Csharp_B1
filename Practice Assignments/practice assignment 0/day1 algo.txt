@@ -1,0 +1,7 @@
+Algorithm to find average of three numbers:
+
+1)Start the program
+2)Initialize four variables num1,num2,num3,total
+3)Add num1,num2 and num3 to store it in total
+4)output the average by printing total divided by 3
+5)End the progam
