@@ -1,0 +1,14 @@
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\bin\Debug\net8.0\Static.exe
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\bin\Debug\net8.0\Static.deps.json
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\bin\Debug\net8.0\Static.runtimeconfig.json
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\bin\Debug\net8.0\Static.dll
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\bin\Debug\net8.0\Static.pdb
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.AssemblyInfoInputs.cache
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.AssemblyInfo.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.dll
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\refint\Static.dll
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.pdb
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\Static.genruntimeconfig.cache
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment3\Static\obj\Debug\net8.0\ref\Static.dll
