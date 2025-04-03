@@ -1,0 +1,14 @@
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.AssemblyInfoInputs.cache
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.AssemblyInfo.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.csproj.CoreCompileInputs.cache
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\bin\Debug\net8.0\UserException.exe
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\bin\Debug\net8.0\UserException.deps.json
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\bin\Debug\net8.0\UserException.runtimeconfig.json
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\bin\Debug\net8.0\UserException.dll
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\bin\Debug\net8.0\UserException.pdb
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.dll
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\refint\UserException.dll
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.pdb
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\UserException.genruntimeconfig.cache
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\Assignment4\UserException\obj\Debug\net8.0\ref\UserException.dll

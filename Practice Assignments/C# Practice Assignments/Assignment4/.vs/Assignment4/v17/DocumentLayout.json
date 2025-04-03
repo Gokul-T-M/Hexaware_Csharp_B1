@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5BE0B-D5A0-4D7A-83BA-C3CDCC6DF513}|Inheritance\\Inheritance.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\inheritance\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B5BE0B-D5A0-4D7A-83BA-C3CDCC6DF513}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5BE0B-D5A0-4D7A-83BA-C3CDCC6DF513}|Inheritance\\Inheritance.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B5BE0B-D5A0-4D7A-83BA-C3CDCC6DF513}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5BE0B-D5A0-4D7A-83BA-C3CDCC6DF513}|Inheritance\\Inheritance.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B5BE0B-D5A0-4D7A-83BA-C3CDCC6DF513}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4AC38-3D9D-45C1-846A-C0E6E5E54068}|Strings\\Strings.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4AC38-3D9D-45C1-846A-C0E6E5E54068}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832106BC-8B02-4E6F-82E0-11502ED34957}|Properties\\Properties.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832106BC-8B02-4E6F-82E0-11502ED34957}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D055E14D-CFA4-4FD9-AFEE-829976B9434E}|UserException\\UserException.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\userexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D055E14D-CFA4-4FD9-AFEE-829976B9434E}|UserException\\UserException.csproj|solutionrelative:userexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D055E14D-CFA4-4FD9-AFEE-829976B9434E}|UserException\\UserException.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\userexception\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D055E14D-CFA4-4FD9-AFEE-829976B9434E}|UserException\\UserException.csproj|solutionrelative:userexception\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|solutionrelative:interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832106BC-8B02-4E6F-82E0-11502ED34957}|Properties\\Properties.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\properties\\timeperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832106BC-8B02-4E6F-82E0-11502ED34957}|Properties\\Properties.csproj|solutionrelative:properties\\timeperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832106BC-8B02-4E6F-82E0-11502ED34957}|Properties\\Properties.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\properties\\properties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{832106BC-8B02-4E6F-82E0-11502ED34957}|Properties\\Properties.csproj|solutionrelative:properties\\properties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4AC38-3D9D-45C1-846A-C0E6E5E54068}|Strings\\Strings.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\strings\\strings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6A4AC38-3D9D-45C1-846A-C0E6E5E54068}|Strings\\Strings.csproj|solutionrelative:strings\\strings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\interface\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|solutionrelative:interface\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\interface\\dayscholar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|solutionrelative:interface\\dayscholar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2A1174E-2536-4F23-B334-AA1E6AC1F84F}|Interface\\Interface.csproj|solutionrelative:interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\abstractclass\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\abstractclass\\abstractclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\abstractclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\abstractclass\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\abstractclass\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\assignment4\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B489CDE8-2A05-418C-B295-3ACD6FA1F073}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraduateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Inheritance\\GraduateStudent.cs",
+              "RelativeDocumentMoniker": "Inheritance\\GraduateStudent.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Inheritance\\GraduateStudent.cs",
+              "RelativeToolTip": "Inheritance\\GraduateStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:55:37.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Inheritance\\Student.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Student.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Inheritance\\Student.cs",
+              "RelativeToolTip": "Inheritance\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:24:34.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:23:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Strings.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Strings\\Strings.csproj",
+              "RelativeDocumentMoniker": "Strings\\Strings.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Strings\\Strings.csproj",
+              "RelativeToolTip": "Strings\\Strings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T09:17:49.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:17:44.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\UserException\\Program.cs",
+              "RelativeDocumentMoniker": "UserException\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\UserException\\Program.cs",
+              "RelativeToolTip": "UserException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:33:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\IStudent.cs",
+              "RelativeDocumentMoniker": "Interface\\IStudent.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\IStudent.cs",
+              "RelativeToolTip": "Interface\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:17:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:49:15.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookShelf.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\BookShelf.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\BookShelf.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\BookShelf.cs",
+              "RelativeToolTip": "AbstractClass\\BookShelf.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:46:47.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimePeriod.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Properties\\TimePeriod.cs",
+              "RelativeDocumentMoniker": "Properties\\TimePeriod.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Properties\\TimePeriod.cs",
+              "RelativeToolTip": "Properties\\TimePeriod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:11:41.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Properties\\Program.cs",
+              "RelativeToolTip": "Properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:11:05.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\UserException\\BankAccount.cs",
+              "RelativeDocumentMoniker": "UserException\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\UserException\\BankAccount.cs",
+              "RelativeToolTip": "UserException\\BankAccount.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:34:21.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Properties.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Properties\\Properties.csproj",
+              "RelativeDocumentMoniker": "Properties\\Properties.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Properties\\Properties.csproj",
+              "RelativeToolTip": "Properties\\Properties.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T15:49:57.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Interface.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "Interface\\Interface.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\Interface.csproj",
+              "RelativeToolTip": "Interface\\Interface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T02:20:13.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DayScholar.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\DayScholar.cs",
+              "RelativeDocumentMoniker": "Interface\\DayScholar.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\DayScholar.cs",
+              "RelativeToolTip": "Interface\\DayScholar.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:20:29.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\Resident.cs",
+              "RelativeDocumentMoniker": "Interface\\Resident.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\Interface\\Resident.cs",
+              "RelativeToolTip": "Interface\\Resident.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:20:47.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\Chair.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Chair.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\Chair.cs",
+              "RelativeToolTip": "AbstractClass\\Chair.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:33:28.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\Furniture.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Furniture.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\Furniture.cs",
+              "RelativeToolTip": "AbstractClass\\Furniture.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:25:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AbstractClass.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\AbstractClass.csproj",
+              "RelativeDocumentMoniker": "AbstractClass\\AbstractClass.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\AbstractClass.csproj",
+              "RelativeToolTip": "AbstractClass\\AbstractClass.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T00:24:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\Assignment4\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:24:42.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
